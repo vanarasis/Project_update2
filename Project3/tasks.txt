@@ -1,0 +1,7 @@
+raju ,2133,1
+kanju,123-12-12,0
+emad,1223,0
+aeasd,1234,1
+adad,1234-12-12,0
+adasd,1233-12-12,0
+meterial magment ,2024-04-19,1
