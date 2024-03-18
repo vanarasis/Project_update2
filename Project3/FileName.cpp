@@ -1,7 +1,7 @@
-#include <iostream>
+#include <iostream>  // input output 
 #include <fstream>
 #include <vector>
-#include <string>
+#include <string  // string 
 #include <iomanip>
 
 using namespace std;
